@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "isActive": false,
+      "isActive": true,
       "balance": 1397.32,
       "avatar": "http://placehold.it/32x32",
       "first_name": "Ryan",
@@ -65,7 +65,7 @@
     },
     {
       "id": 8,
-      "isActive": false,
+      "isActive": true,
       "balance": 2143.38,
       "avatar": "http://placehold.it/32x32",
       "first_name": "Davis",
@@ -74,7 +74,7 @@
     },
     {
       "id": 9,
-      "isActive": false,
+      "isActive": true,
       "balance": 3586.36,
       "avatar": "http://placehold.it/32x32",
       "first_name": "Sheri",
@@ -83,7 +83,7 @@
     },
     {
       "id": 10,
-      "isActive": false,
+      "isActive": true,
       "balance": 3653.26,
       "avatar": "http://placehold.it/32x32",
       "first_name": "Sweeney",
@@ -449,6 +449,48 @@
       "first_name": "Mcbride",
       "last_name": "Woodward",
       "gender": "male"
+    },
+    {
+      "balance": 444,
+      "first_name": "Fernando",
+      "last_name": "Herrera",
+      "id": 51,
+      "isActive": true
+    },
+    {
+      "balance": 5345,
+      "first_name": "Fernando",
+      "last_name": "Herrera",
+      "id": 52,
+      "isActive": true
+    },
+    {
+      "balance": 32233,
+      "first_name": "Davis",
+      "last_name": "sss",
+      "id": 53,
+      "isActive": false
+    },
+    {
+      "balance": 3645645,
+      "first_name": "Davis",
+      "last_name": "Cox",
+      "id": 54,
+      "isActive": true
+    },
+    {
+      "balance": 234534534,
+      "first_name": "Fernando",
+      "isActive": true,
+      "last_name": "Hunt",
+      "id": 55
+    },
+    {
+      "balance": 2334555545,
+      "first_name": "Sheri",
+      "isActive": false,
+      "last_name": "Herrera",
+      "id": 56
     }
   ]
 }
